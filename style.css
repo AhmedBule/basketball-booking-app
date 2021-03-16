@@ -16,3 +16,18 @@ body{
     font-family: 'Roboto', sans-serif;
    margin: 0;
 }
+
+.basketball-container{
+    margin: 20px 0;
+
+}
+
+.basketball-container select {
+    background-color: white;
+    border: 0;
+    border-radius: 5px;
+    font-size: 14px;
+    margin-left: 10px;
+    padding: 5px 15px 5px 15px;
+    appearance: none;
+}
